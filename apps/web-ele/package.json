@@ -41,13 +41,16 @@
     "@vben/types": "workspace:*",
     "@vben/utils": "workspace:*",
     "@vueuse/core": "catalog:",
+    "core-js": "^3.39.0",
     "dayjs": "catalog:",
     "element-plus": "catalog:",
+    "lodash-es": "^4.17.21",
     "pinia": "catalog:",
     "vue": "catalog:",
     "vue-router": "catalog:"
   },
   "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
     "unplugin-element-plus": "catalog:"
   }
 }
